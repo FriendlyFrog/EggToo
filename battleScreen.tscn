@@ -4,7 +4,7 @@
 
 [node name="icon" type="Sprite" index="0"]
 
-position = Vector2( 175.006, 83.7461 )
+position = Vector2( 488.079, 366.126 )
 texture = ExtResource( 1 )
 
 
